@@ -1,14 +1,15 @@
 ### Introduction
 This is an awesome calculator written in Python 2.7.5. 
 It can evaluate simple arithmetic expressions. For 
-questions that are too hard, it queries the Wolfram
-Alpha API to look for answers
+questions that are beyond arithmetic, it queries Wolfram
+Alpha using their API to look for answers
 
 ### Installation
-First, please make sure that you have Beautiful Soup 4
+First, make sure that you have Beautiful Soup 4
 and Nose install. The former is for XML parsing, while 
 the latter is needed for testing purposes.  
-```pip install BeautifulSoup4
+```bash
+pip install BeautifulSoup4     
 pip install nose
 ```    
 
@@ -20,7 +21,7 @@ python setup.py install
 ### Versions
 0.1 (09/16/2013)
 
-### User Guide
+### Usage
 ```python
 python CalCalc.py -s 'YOUR_STRING_HERE'
 ```   
