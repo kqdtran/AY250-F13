@@ -1,3 +1,8 @@
+"""Testing code for CalCalc.py.
+Add your own tests below, and make sure to follow the
+format. Instructions on how to run the tests can be found
+on the README.md file"""
+
 from CalCalc import calculate
 
 

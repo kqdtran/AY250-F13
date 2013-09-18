@@ -40,9 +40,10 @@ def calculate(stringExp):
         soup = Soup(xmlDoc)
         resultList = soup.find_all('plaintext')
         if len(resultList) >= 2:
-            result = resultList[1].string.encode("ascii", errors='ignore').strip()
+            result = resultList[1].string.encode("ascii",
+                                                 errors='ignore').strip()
         else:
-            result = "Too bad. Your query is too hard for Wolfram Alpha"
+            result = "Too bad. Your query is too hard even for Wolfram Alpha"
     return result
 
 
