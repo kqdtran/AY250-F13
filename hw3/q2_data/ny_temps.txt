@@ -1,3 +1,4 @@
+Modified Julian Date	Max Temperature
 48988	53
 49019	38
 49047	31

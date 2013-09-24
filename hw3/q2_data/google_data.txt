@@ -1,3 +1,4 @@
+Modified Julian Date	Stock Value
 55463	527.29
 55462	513.48
 55461	516
