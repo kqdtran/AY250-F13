@@ -6,4 +6,4 @@ Repository for [Astronomy 250 Fall 2013 - Python Computing for Data Science](htt
 Currently, there are 2 folders:      
 
 * **hw2**: Calculator module with WolframAlpha API (CalCalc.py)    
-* **hw3**: Advanced Matplotlib with brushing
+* **hw3**: Advanced Matplotlib with plots reproducing and scatterplot matrix brushing
