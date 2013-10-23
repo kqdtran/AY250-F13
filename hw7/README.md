@@ -1,9 +1,11 @@
 ### Introduction
-This is the repository for HW5: XML-RPC Client/Server and Identifying Musical Notes from AIFF files. 
-Solutions to all of the problems are stored in the hw5 IPython Notebook.      
-
-### AAAAA    
+This is the repository for HW7: Analyzing Github Issues with Pandas. 
+Solutions to all of the problems are stored in the hw7 IPython Notebook.      
 
 
-### BBBBB   
+### DataFiles
+Can be downloaded from https://www.dropbox.com/s/pe6dqooznrfynii/closed.json in JSON format
+
+
+### Moar to come   
 
